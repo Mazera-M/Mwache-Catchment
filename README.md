@@ -1,4 +1,4 @@
-#Introduction
+# Introduction
 
 Mwache catchment covers an area of 3647km2 and stretches across coordinates 38.6327 west, 39.5416 East and -3.53513 North, -4,10244 South 
 and stretches across Taita Taveta, Kwale and Kilifi Counties. Mwache catchment is fed by two rivers; Mwache and Mnyenzeni and their tributaries.
@@ -9,7 +9,7 @@ The estimated population for Mwache catchment was 207,603 (KNBS 2019) with avera
 Four economic activities namely Livestock farming, mixed farming, fisheries and formal employment/tourism form the core of the livelihoods of the Mwache Community. 
 Charcoal making which has contributed to the catchment degradation is also an economic activity in this area.
 
-# Mwache-Catchment repo
+## Mwache-Catchment repo
 Contains Mwache Catchment maps
 
 ## The maps include
