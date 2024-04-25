@@ -12,7 +12,7 @@ Charcoal making which has contributed to the catchment degradation is also an ec
 ## Mwache-Catchment repo
 Contains Mwache Catchment maps
 
-## The maps include
+### The maps include
 1. Mwache dam location map
 2. WRUAs location map
 3. WRUAs planned interventions
